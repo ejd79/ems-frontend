@@ -32,3 +32,11 @@ Bootstrap 5 :
 - Write REST Client code to make REST API call using Axios API
 - Change ListEmployeeComponent to Display Response of the REST API (List of Employees)
 - Test the above changes  
+
+# Adding Header and Footer  
+- Create HeaderComponent (functional component)
+- Import and use HeaderComponent in App component
+- Create FooterComponent (functional component)
+- Import and use FooterComponent in App component 
+
+
