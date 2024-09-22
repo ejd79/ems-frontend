@@ -44,3 +44,12 @@ Bootstrap 5 :
 - Configure routing in App Component
 - Configure Route for ListEmployeeComponent
 - Test Route for ListEmployeeComponent  
+
+# Create React EmployeeComponent  
+- Create React Functional Component - EmployeeComponent  
+- Add "Add Employee" button in ListEmployeeComponent  
+- Configure Route for EmployeeComponent  
+- Test the above changes
+
+
+
