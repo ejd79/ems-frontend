@@ -49,7 +49,14 @@ Bootstrap 5 :
 - Create React Functional Component - EmployeeComponent  
 - Add "Add Employee" button in ListEmployeeComponent  
 - Configure Route for EmployeeComponent  
-- Test the above changes
+- Test the above changes  
+
+# Add employee form handling  
+- Define state variables (firstName, lastName and Email) in EmployeeComponent using useState Hook  
+- Design Add Employee Form using HTML and Bootstrap  
+- Create JavaScript function to handle onClick Event (Form Submit)  
+- Test React App (print form data in browser console)
+
 
 
 
