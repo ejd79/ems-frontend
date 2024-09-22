@@ -26,3 +26,9 @@ Bootstrap 5 :
 - container (https://getbootstrap.com/docs/5.0/layout/containers/)
 - table (https://getbootstrap.com/docs/5.0/content/tables/)
 
+# To connect to backend REST API:  
+- Install Axios Library (npm install axios --save)
+- Create EmployeeService.js file
+- Write REST Client code to make REST API call using Axios API
+- Change ListEmployeeComponent to Display Response of the REST API (List of Employees)
+- Test the above changes  
