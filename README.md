@@ -92,7 +92,15 @@ Bootstrap 5 :
 # Update Employee Rest API  
 - In EmployeeService write a code to call Update Employee REST API using axios  
 - Change EmployeeComponent.saveOrUpdateEmployee() method to perform both Add and Update employee operations  
+- Test above changes  
+
+# Delete Employee REST API  
+- In EmployeeService, call Delete Employee REST API  
+- Add Delete Button to list employees table  
+- Create JavaScript function to handle Delete button event  
 - Test above changes
+
+
  
 
 
