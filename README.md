@@ -61,7 +61,16 @@ Bootstrap 5 :
 - In EmployeeService, write a code to call Add Employee REST API using axios  
 - Change EmployeeComponent to call EmployeeService method  
 - Navigate to List Employees Page After Form Submission Done  
-- Test above changes
+- Test above changes  
+
+# Add Validation to Form  
+- Use the useState hook to initialize state variables that will hold validation errors  
+- Write a validation function that check form data and returns validation errors  
+- Validate form on submission  
+- Display validation errors  
+- Test above changes 
+
+
 
 
 
