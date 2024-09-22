@@ -84,11 +84,16 @@ Bootstrap 5 :
 - Change Page title dynamically (EmployeeComponent support both Add and Update)  
 - Test above changes  
 
-# Connect to Get Employee REST API in order to Update one Employee  
+# Connect to Get Employee REST API 
 - In EmployeeService, write a code to call Get Employee REST API using Axios  
 - Use useEffect hook to populate the employee data in the form for update  
-- Test above changes
+- Test above changes  
 
+# Update Employee Rest API  
+- In EmployeeService write a code to call Update Employee REST API using axios  
+- Change EmployeeComponent.saveOrUpdateEmployee() method to perform both Add and Update employee operations  
+- Test above changes
+ 
 
 
 
