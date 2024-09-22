@@ -13,3 +13,16 @@ Currently, two official plugins are available:
 - create project "ems-frontend":   
 npm create vite@latest ems-frontend  
 
+# Create React ListEmployeeComponent
+- Create react functional component
+- Prepare dummy data
+- Write jsx code 
+- Import component into App component
+- Run and Test
+
+# Let's work on style with....  
+
+Bootstrap 5 :  
+- container (https://getbootstrap.com/docs/5.0/layout/containers/)
+- table (https://getbootstrap.com/docs/5.0/content/tables/)
+
