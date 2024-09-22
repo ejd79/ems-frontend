@@ -82,7 +82,14 @@ Bootstrap 5 :
 - Add Update button to list employees page  
 - Add Route for Update Employee in App component  
 - Change Page title dynamically (EmployeeComponent support both Add and Update)  
+- Test above changes  
+
+# Connect to Get Employee REST API in order to Update one Employee  
+- In EmployeeService, write a code to call Get Employee REST API using Axios  
+- Use useEffect hook to populate the employee data in the form for update  
 - Test above changes
+
+
 
 
 
