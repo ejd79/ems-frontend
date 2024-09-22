@@ -55,7 +55,14 @@ Bootstrap 5 :
 - Define state variables (firstName, lastName and Email) in EmployeeComponent using useState Hook  
 - Design Add Employee Form using HTML and Bootstrap  
 - Create JavaScript function to handle onClick Event (Form Submit)  
-- Test React App (print form data in browser console)
+- Test React App (print form data in browser console)  
+
+# Connect react to Add Employee REST API  
+- In EmployeeService, write a code to call Add Employee REST API using axios  
+- Change EmployeeComponent to call EmployeeService method  
+- Navigate to List Employees Page After Form Submission Done  
+- Test above changes
+
 
 
 
