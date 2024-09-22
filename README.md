@@ -39,4 +39,8 @@ Bootstrap 5 :
 - Create FooterComponent (functional component)
 - Import and use FooterComponent in App component 
 
-
+# Configure Routing  
+- Install react-router-dom library (npm install reacct-router-dom --save)
+- Configure routing in App Component
+- Configure Route for ListEmployeeComponent
+- Test Route for ListEmployeeComponent  
