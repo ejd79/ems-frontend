@@ -13,6 +13,14 @@ Currently, two official plugins are available:
 - create project "ems-frontend":   
 npm create vite@latest ems-frontend  
 
+# Bootstrap 5.x links  
+- https://getbootstrap.com/docs/5.0/layout/containers/  
+- https://getbootstrap.com/docs/5.0/content/tables/#bordered-tables  
+- https://getbootstrap.com/docs/5.0/components/navbar/  
+- https://getbootstrap.com/docs/5.0/components/buttons/  
+- https://getbootstrap.com/docs/5.0/components/card/  
+- https://getbootstrap.com/docs/5.3/forms/validation/
+
 # Create React ListEmployeeComponent
 - Create react functional component
 - Prepare dummy data
@@ -68,7 +76,15 @@ Bootstrap 5 :
 - Write a validation function that check form data and returns validation errors  
 - Validate form on submission  
 - Display validation errors  
-- Test above changes 
+- Test above changes   
+
+# Adding Update Button, Title and Route  
+- Add Update button to list employees page  
+- Add Route for Update Employee in App component  
+- Change Page title dynamically (EmployeeComponent support both Add and Update)  
+- Test above changes
+
+
 
 
 
